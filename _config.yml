@@ -4,21 +4,21 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Data Storyteller"
+title: "Yeji's blog"
 description: > # this means to ignore newlines until "email:"
-   Dreamgonfly's blog
+   Yeji's blog
 
 email: dreamgonfly@gmail.com
 #blog logo
-logo: "/assets/images/dragonfly_moon.jpg"
+logo: "/assets/images/sally.jpeg"
 float_logo: false # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/sally.jpeg"
 
 name: 'yeeji.kwon'
 author: 'yeeji.kwon'
-author_image: "/assets/images/dragonfly_moon.jpg"
+author_image: "/assets/images/sally.jpeg"
 
 paginate:	5
 
