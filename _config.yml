@@ -63,4 +63,4 @@ social:
 #    share_link:
 
 markdown: kramdown
-remote_theme : mmistakes/minimal-mistakes
+# remote_theme : mmistakes/minimal-mistakes
