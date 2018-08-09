@@ -18,7 +18,7 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
-
+_config.yml
 
 ### Gulp ###
 package.json
@@ -94,3 +94,6 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+
+### pycharm ###
+.idea
