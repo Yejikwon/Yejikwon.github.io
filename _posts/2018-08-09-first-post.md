@@ -1,7 +1,7 @@
 ---
-<h5> title: "안녕하세요. 첫 게시글입니다."
+title: "안녕하세요. 첫 게시글입니다."
 date: 2018-08-09 17:40:28 -0400
-categories: first_posting </h5>
+categories: first_posting
 ---
 
 <h6> You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.

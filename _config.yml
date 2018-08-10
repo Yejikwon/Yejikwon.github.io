@@ -269,3 +269,14 @@ defaults:
       comments: true
       share: true
       related: true
+
+# Navigation
+navigation:
+ - title: Home1
+   url: /index.html
+ - title: About1
+   url: /about
+ - title: Categories1
+   url: /category
+ - title: Contact1
+   url: /contact
