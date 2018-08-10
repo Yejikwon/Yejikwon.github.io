@@ -272,11 +272,11 @@ defaults:
 
 # Navigation
 navigation:
- - title: Home1
+ - title: Home
    url: /index.html
- - title: About1
+ - title: About
    url: /about
  - title: Categories
-   url: /categories
- - title: Contact1
+   url: /category
+ - title: Contact
    url: /contact
