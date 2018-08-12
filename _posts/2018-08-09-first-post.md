@@ -14,5 +14,5 @@ print_hi('Tom')
 ​```
 
 <h5> 연습용입니다. 글자 크기는 어떨까? 적용될까?? </h5>
- ![image](https://github.com/Yejikwon/Yejikwon.github.io/blob/master/assets/images/sally.jpeg)
+ ![image]("/assets/images/sally.jpeg")
 <br>
