@@ -5,7 +5,7 @@ main:
   #- title: "About"
   #  url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Archive"
-    url: /year-archive/
+    url: /archive/
   - title: "tag"
     url: /tags/
   - title: "Category"
