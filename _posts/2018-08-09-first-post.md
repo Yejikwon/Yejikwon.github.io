@@ -21,5 +21,5 @@ print_hi('Tom')
 ```
 
 <h5> 귀여운 샐리 보고 가세요~ </h5>
- ![sally]("{{ site.url }}/assets/images/sally.jpeg")
+ ![sally]("yejikwon.github.io/assets/images/sally.jpeg")
 <br>
