@@ -1,11 +1,11 @@
 ---
-title: "포스팅 기초"
+title: "markdown 기초"
 date: 2018-08-23 19:30:00 -0400
-categories: categories
+categories: markdown
 tags: jekyll markdown
 ---
 
-포스팅 시, 유용한 기초 내용을 작성하였습니다.
+포스팅 시, 유용한 기초 markdown 내용을 작성하였습니다.
 
 ## 지킬(Jekyll)과 마크다운(Markdown)
 
@@ -56,8 +56,17 @@ class UIControllerview { <br>
 
 > <center> 중앙 정렬 </center>
 
+
+### 표 삽입
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
 <br>
 
 그 외 참고자료: [markdown](https://namu.wiki/w/마크다운) 참고
 
------
+<br>

@@ -6,3 +6,21 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css); //https://www.letmecompile.com/%EB%82%98%EB%88%94%EA%B3%A0%EB%94%95-%EA%B5%AC%EA%B8%80-%EC%9B%B9%ED%8F%B0%ED%8A%B8webfont-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/
+
+/* 본문 텍스트로 쓰일 font는 클래스 수정 */
+p, form {
+  font-family: 'Nanum Gothic', serif;
+  font-size:20px;
+}
+
+body {
+  font-family: 'Nanum Gothic', serif;
+  font-size:20px;
+}
+
+/* footer용 font로 쓰일 클래스는 신규추가 */
+.footer-text {
+  font-family: 'Jeju Gothic', serif;
+  font-size: 16px;
+}

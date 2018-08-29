@@ -1,8 +1,8 @@
 ---
-title: "파이썬의 기초"
-date: 2018-08-23 19:30:00 -0400
+title: "리스트 컴프리헨션(List Conprehension)"
+date: 2018-08-29 15:00:00 -0400
 categories: python
-tags: python
+tags: List_conprehension
 ---
 
 > "파이썬 코딩의 기술" 책을 보고 정리한 내용입니다. Pyhon 공부를 <br> 하면서 알게된 점, 공유하고 싶은 점을 추가 작성했습니다.
