@@ -18,6 +18,7 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+_posts
 
 ### Gulp ###
 package.json
