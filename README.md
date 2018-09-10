@@ -1,2 +1,2 @@
 # Yejikwon.github.io
-Welcome to Yeji's blog!
+Welcome to Yancy's blog!
