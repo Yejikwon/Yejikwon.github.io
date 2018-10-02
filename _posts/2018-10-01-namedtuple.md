@@ -34,7 +34,7 @@ tags: python
     import collections
     
     # namedtuple()은 field_names를 이용해 값을 지정할 수 있다.
-    <code> Grade = collections.namedtuple('Grade', ('score', 'weight')) </code>
+    Grade = collections.namedtuple('Grade', ('score', 'weight'))
     
     class Subject(object):
     def __init__(self):
