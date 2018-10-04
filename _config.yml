@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yancy Kwon"
+  name             : "Yancy, Kwon"
   avatar           : "/assets/images/sally.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome"
   location         : "Seoul, Korea"
